@@ -1,6 +1,6 @@
 from Time import Time
 
-class timeClnt :
+class TimeClient:
     t1 = Time(16, 42, 8)
     t2 = Time(12, 38, 2)
     t3 = Time(6, 38, 12)
